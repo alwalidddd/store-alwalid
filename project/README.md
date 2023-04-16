@@ -18,6 +18,6 @@ install python3, pip, and flask, and request:
 
 and running script :
 
--go to alwalidd folder : cd alwalidd
+-go to alwalidd folder : cd project
 
 -do command : python3 app.py
