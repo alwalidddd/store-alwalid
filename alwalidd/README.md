@@ -1,4 +1,4 @@
-how to build this code:
+--------------------how to build this code-------
 
 install python3, pip, and flask, and request:
 
@@ -14,7 +14,9 @@ install python3, pip, and flask, and request:
 
 -pip install requests
 
-and running script
+====================================================
+
+and running script :
 
 -go to alwalidd folder : cd alwalidd
 
